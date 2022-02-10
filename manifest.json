@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Know Your Time",
+    "version": "1.0.0",
+    "description": "Get your time in your browser, so you'll never be late",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "action": {
+        "default_popup": "index.html",
+        "default_logo": "icon48.png"
+    },
+    "permissions": ["activeTab"]
+}
