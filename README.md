@@ -5,7 +5,7 @@ This extension shows current time and date. Extension name called as Know Your T
 ## Features
 
 - Chrome Extension(to be published)
-- Show Local Date and Time
+- Shows Local Date and Time
 - Minimalistic UI
 - Dark/Light Mode
 - Github switch to visit the source code and additional info.
@@ -19,6 +19,7 @@ This extension shows current time and date. Extension name called as Know Your T
 ## Hosting
 
 - Hosted on Github
+- Published on Chrome WebStore (Soon)
 
 ## Status
 
