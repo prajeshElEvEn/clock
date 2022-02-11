@@ -19,7 +19,7 @@ This extension shows current time and date. Extension name called as Know Your T
 ## Hosting
 
 - Hosted on Github
-- Published on Chrome WebStore (Soon)
+- Published on Chrome WebStore (Sroon)
 
 ## Status
 
