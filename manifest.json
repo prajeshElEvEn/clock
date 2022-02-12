@@ -11,6 +11,5 @@
     "action": {
         "default_popup": "index.html",
         "default_logo": "icon16.png"
-    },
-    "permissions": ["activeTab"]
+    }
 }
